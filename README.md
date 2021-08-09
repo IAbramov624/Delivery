@@ -1,2 +1,2 @@
 # Delivery
-Website with render restaurants and menu imitation
+Website with render restaurants and menu
